@@ -2,6 +2,12 @@
 
 # Capítulo 7: La identificación
 
+El foco de Freud está puesto en el síntoma. le interesa la identificación en tanto colabora a la formación de síntomas. ¿Cómo colabora la identificación en el síntoma histérico?
+
+Freud distingue: la identificación como lazo afectivo del lazo afectivo amoroso. De hecho identificacion y amor se manifiestan de manera separada, al menos con el mismo objeto
+
+Una cosa es **querer ser como** (identificación) y otra cosa es **querer tener** (del lado del amor)
+
 ## Identificación inicial
 - identificación --> primera exteriorización de una ligazón afectiva
 - El niño siente interés por su padre, quiere ser como él y lo toma como **ideal**.
@@ -44,30 +50,38 @@ Puede ocurrir por distintas vías
 
 #### caso 2: regresión de la elección de objeto a la identificación--> ejemplo: la niña recibe la tos del padre (Caso Dora)
 
-- La identificación reemplaza a la elección de objeto, la elección de objeto ha regresado hasta la identificación
-- La **identificación es lazo afectivo primario y más originario**.
+- *La identificación reemplaza a la elección de objeto, la elección de objeto ha regresado hasta la identificación*
+- La **identificación es el lazo afectivo primario y más originario**.
 - En la formación de síntomas, bajo la represión, la elección de objeto puede volver a la identificación.
 
  *sustituir a una ligazón libidinosa de objeto por la vía regresiva, mediante introyección del objeto en el yo*
 
+Acá observamos que hay identificación o lazo amoroso, pero no las dos a la vez.
+
 #### En ambos casos
 
-- el yo copia un rasgo: puede ser de la **persona amada** o de la **persona no amada**.
+- el yo copia un rasgo: puede ser de la **persona amada** o de la **persona no amada** del Edipo.
 - La identificación es **parcial**, limitada: solo se toma **un rasgo del objeto**.
 
-#### caso 3: sin mediar relación de objeto
+#### caso 3: sin mediar relación de objeto --> "infección psíquica"
 
+- Es una identificación en base a poder o querer ponerse en la misma situación y copia al síntoma de la persona que ha traído la situación.
 - Ejemplo: una joven tiene un ataque histérico por celos → sus amigas lo “pescan” sin tener el mismo objeto amoroso.  
 - Mecanismo: identificarse con la **situación** (no con la persona).  
 - Nace un lazo de **coincidencia entre los yo** (punto de analogía afectiva).  
 - El síntoma se convierte en el **índice de ese punto de coincidencia**.  
+- No es una identificación al rasgo
+- *Uno de los “Yoes” ha percibido en el otro una importante analogía en un  punto y luego crea una identificación en ese punto, y es influida por la situación patógena. Esa identificación se desplaza al síntoma que el primer yo ha producido.*
+- las otras personas se querrían poner en la misma situación y para eso se identifican a la respuesta sintomática.
+- **La identificación por el síntoma pasa a ser el indicio de un punto de coincidencia entre los dos Yoes, y ese punto debe mantenerse reprimido**
 
 ## Identificación y procesos psíquicos 
 
 ### Identificación en la masa
 - La ligazón entre individuos de la masa es una **identificación recíproca** basada en una comunidad afectiva.  
 - Esta comunidad se funda en la **relación con el conductor**.  
-- La identificación en las masas explica fenómenos de cohesión y obediencia.
+- La identificación en las masas explica fenómenos de cohesión y obediencia. 
+- Identificación de yo a yo como la "infección psíquica"
 
 ### Empatía (Einfühlung)
 - La psicología llama "empatía" al proceso que permite comprender al yo ajeno.  
@@ -86,7 +100,20 @@ Puede ocurrir por distintas vías
 - Sirve como **instancia crítica y modelo interno**, pero su fuerza depende del grado de distanciamiento entre el yo y dicho ideal.  
 - En la masa, este ideal puede ser proyectado en el líder o conductor, manteniendo la cohesión grupal.
 
+## Otras dos formas de identificación
+
+No participan de la formación del síntoma en la histeria
+
+### Homosexualidad masculina
+
+El niño ama a la madre, tiene una fijación amorosa muy fuerte con la madre y para  solucionar el conflicto, en vez de abandonar a la madre, se identifica con ella,  *se  trasmuda en ella*. Y busca objetos de amor a imagen y semejanza de sí mismo. Es decir,  realiza la relación que había entre él –niño-y su madre, cuando elige un objeto homosexual. Es decir, son objetos que cuida y ama como él experimentó ser amado y cuidado por su  propia madre. Lo más llamativo de esta identificación es su amplitud -aclara Freud, se  entiende- respecto de la parcialidad de las otras identificaciones. En este caso es una  identificación casi total al yo de la madre y, en este sentido, se diferencia claramente de la  identificación al rasgo. 
+
+### Melancolía
+
+La identificación está referida a la  pérdida de un objeto y, según Freud, parte del yo se identifica con ese objeto. El rasgo central  de la melancolía -como lo que llamamos los reproches propios de la melancolía, la  denigración propia- está ligado a que la sombra del objeto ha caído sobre el yo. Cuando el  sujeto se auto-reprocha, es un reproche al objeto perdido que, por identificación, recae sobre  el yo y se convierte en un auto-reproche.
+
 #### Síntesis general
+
 - La **identificación** es una vía fundamental de lazos afectivos y organizadores de la vida psíquica.  
 - Aparece en:
   - Complejo de Edipo.  
@@ -95,6 +122,12 @@ Puede ocurrir por distintas vías
   - Homosexualidad masculina.  
   - Melancolía.  
 - El **ideal del yo** surge como resultado de estas identificaciones, funcionando como modelo, instancia crítica y núcleo de la vida moral.  
+
+Lo que hemos aprendido de las "tres fuentes de identificación es"...
+
+1. la identificación es la forma más originaria de ligazón afectiva con el objeto
+2. la identificación pasa a sustituir una ligazón libidinosa de objeto por vía regresiva, mediante **introyección del objeto en el yo**
+3. puede nacer a raíz de cualquier **comunidad** que llega a percibirse en una persona que no es objeto de las pulsiones sexuales. --> comparable con la ligazón en "la masa" --> , la identificación se produce a partir de la relación que cada uno tiene con el ideal, se identifican en ese punto: *este modo de identificación histérica es de infección psíquica y hace masa*
 
 # Capítulo 8: Enamoramiento e hipnosis
 
@@ -211,3 +244,6 @@ las anteriores aspiraciones "sensuales" se conservan en el icc
 ---
 
 La **hipnosis** revela en forma concentrada la lógica libidinal de la masa: sumisión al conductor como **ideal del yo compartido**. La masa se cohesiona porque todos los individuos proyectan ese mismo ideal en el líder, generando identificación mutua.  
+
+
+
