@@ -154,7 +154,7 @@ Esta distinción no responde a nada natural; es un problema simbólico.
 | Miedo a la castración | Falo      | Pene       |
 | Envidia del pene      | No falo   | X          |
 
-**Otros problemas surgen frente a esta “x” que supone la feminidad en el campo del  Edipo. **
+**Otros problemas surgen frente a esta “x” que supone la feminidad en el campo del  Edipo.**
 
 - La histeria hace de esa incógnita, su problema en la vida.
 - anda por la vida buscando alguien que le responda por la satisfacción femenina; y hace de eso  todo su problema. 
